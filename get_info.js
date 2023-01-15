@@ -42,4 +42,4 @@ const gitInfo = (gitDir) => {
 };
 
 // example usage
-gitInfo('C:\\Users\\Kuya\\Desktop\\wasItRufus\\develop');
+gitInfo('path/to/local/repo');
